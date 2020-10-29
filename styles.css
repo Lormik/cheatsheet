@@ -1,0 +1,16 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: darkblue;
+    background-color: white;
+}
+
+table, th, td {
+    background-color: gold;
+    border: 0.3rem solid darkblue;
+}
+
+
+table a {
+    color: gold;
+}
